@@ -14,4 +14,6 @@
 ### site officiel ===> http://smoothiecharts.org/
 > ![affichage](https://user-images.githubusercontent.com/86606579/211202331-c83e4a41-cefa-4df5-a877-4fd23d89ed45.JPG)
 > ![R1](https://user-images.githubusercontent.com/86606579/211202341-36d21eb6-1658-41f7-93bb-d408d347807a.JPG)
+> ![docker_pop](https://user-images.githubusercontent.com/86606579/211877832-56546157-770e-4808-92cf-a4160c703c3f.JPG)
+
 
